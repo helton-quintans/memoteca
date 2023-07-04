@@ -1,4 +1,4 @@
-.header {
+.cabecalho {
   background: url(/assets/images/fundo-cabecalho.png);
   background-size: cover;
   display: flex;
@@ -6,28 +6,28 @@
   justify-content: space-between;
 }
 
-.header .logo {
+.cabecalho .logo {
   width: 46%;
   padding: 2rem 3rem;
 }
 
-.header .logo img {
+.cabecalho .logo img {
   width: 90%;
   max-width: 350px;
   margin-bottom: 2rem;
 }
 
-.header .imagem{
+.cabecalho .imagem{
   width: 40%;
 }
 
-.header p {
+.cabecalho p {
   font-size: 2rem;
   color: #6BD1FF;
 }
 
 @media (max-width: 576px) {
-  .header .logo {
+  .cabecalho .logo {
     padding: 2rem;
   }
   .header p {
