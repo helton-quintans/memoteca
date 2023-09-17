@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { HeaderComponent } from './components/header/header.component';
 import { RodapeComponent } from './components/rodape/rodape.component';
+import { CriarPensamentoComponent } from './components/pensamentos/criar-pensamento/criar-pensamento.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     HeaderComponent,
-    RodapeComponent
+    RodapeComponent,
+    CriarPensamentoComponent
   ],
   imports: [
     BrowserModule,
