@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteúdo": "Que bom que vc veio",
+      "autoria": "Varela",
+      "modalo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteúdo": "Que bom que vc veio",
+      "autoria": "Nay",
+      "modalo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteúdo": "Que bom que vc veio",
+      "autoria": "Helton",
+      "modalo": "modelo1"
+    }
+  ]
+}
